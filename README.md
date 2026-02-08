@@ -1,22 +1,23 @@
 <style>
-  html, body { 
-    background-color: #000000 !important; 
-    color: #ffffff !important; 
-  }
-  .container-lg { 
+  body { 
+    background-color: #0d1117 !important; 
+    color: #c9d1d9 !important; 
     max-width: 900px !important; 
-    background-color: #000000 !important; 
-    border: none !important; 
-    box-shadow: none !important;
+    margin: 0 auto !important;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif !important;
+    line-height: 1.6 !important;
   }
   code { 
-    background-color: #1a1a1a !important; 
+    background-color: #21262d !important; 
     color: #ff7b72 !important; 
     padding: 0.2em 0.4em !important;
     border-radius: 6px !important;
+    font-size: 85% !important;
   }
-  footer { display: none !important; }
   a { color: #58a6ff !important; }
+  h1, h2, h3 { color: #f0f6f2 !important; border-bottom: 1px solid #30363d !important; padding-bottom: 8px !important; }
+  hr { background-color: #30363d !important; height: 1px !important; border: none !important; }
+  blockquote { border-left: 4px solid #30363d !important; color: #8b949e !important; padding-left: 1rem !important; }
 </style>
 # 🌌 Правила приватного сервера Minecraft: Entropy
 
