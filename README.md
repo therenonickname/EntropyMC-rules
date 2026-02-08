@@ -1,14 +1,8 @@
 <style>
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: #0d1117;
-      color: #c9d1d9;
-    }
-    a { color: #58a6ff; }
-    hr { background-color: #30363d; }
-    code { background-color: rgba(110,118,129,0.4); }
-  }
+  body { background-color: #0d1117 !important; color: #c9d1d9 !important; }
+  a { color: #58a6ff !important; }
 </style>
+
 # 🌌 Правила приватного сервера Minecraft: **Entropy**
 
 > **Важно:** Незнание правил не освобождает от ответственности. Присоединяясь к серверу, вы автоматически соглашаетесь со всеми пунктами ниже.
